@@ -1,0 +1,10 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#050505"/>
+  <rect x="80" y="80" width="1040" height="470" rx="16" fill="#0A0A0A" stroke="#1A1A1A" stroke-width="1"/>
+  <text x="120" y="200" font-family="system-ui, sans-serif" font-size="72" font-weight="700" fill="#FFFFFF">Atharva</text>
+  <text x="120" y="260" font-family="system-ui, sans-serif" font-size="28" font-weight="500" fill="#A1A1AA">Founder, CEO &amp; CTO @ SINXCE Labs</text>
+  <text x="120" y="310" font-family="system-ui, sans-serif" font-size="18" fill="#71717A">Building software products, AI systems, automation tools,</text>
+  <text x="120" y="340" font-family="system-ui, sans-serif" font-size="18" fill="#71717A">and digital infrastructure for the future.</text>
+  <rect x="120" y="390" width="140" height="44" rx="8" fill="#4F46E5"/>
+  <text x="190" y="419" font-family="system-ui, sans-serif" font-size="16" font-weight="600" fill="#FFFFFF" text-anchor="middle">View Projects</text>
+</svg>
