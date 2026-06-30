@@ -57,8 +57,8 @@ const socialLinks = [
     Icon: LinkedInIcon,
   },
   {
-    href: null, // Twitter link — will be added later
-    label: "Twitter",
+    href: "https://x.com/AtharvaPadwal_",
+    label: "X",
     Icon: TwitterIcon,
   },
   {
